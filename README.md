@@ -4,6 +4,6 @@ This is the repository cointaining just the [oneDrive](https://unigeit-my.sharep
 
 Authors: 
 * [Youssef Mohsen Mahmoud Attia](https://github.com/youssefattia98)
-* Giacomo Lugano
+* [Giacomo Lugano] (https://github.com/jek97)
 * [Hussein Ahmed Fouad Hassan](https://github.com/husseinfd97)
 * [Alice Maria Catalano](https://github.com/AliceCatalano)
